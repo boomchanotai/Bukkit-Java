@@ -1,0 +1,6 @@
+name: Boom
+main: me.boom.chanotai.Main
+version: 1.0
+
+commands:
+    login:

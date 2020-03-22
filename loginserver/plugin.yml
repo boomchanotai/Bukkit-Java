@@ -1,0 +1,9 @@
+name: loginserver
+main: me.boom.chanotai.Main
+version: 1.0
+
+commands:
+    spawn:
+    help:
+    ?:
+    pl:
